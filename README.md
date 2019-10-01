@@ -1,2 +1,0 @@
-# SimpleCrudApp
-Created with CodeSandbox
